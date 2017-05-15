@@ -11,10 +11,11 @@
 ##### 超簡単
 ---
 
-![威嚇するネコ](https://ja.wikipedia.org/wiki/ファイル:Hannibal_Poenaru_-_Nasty_cat_!_(by-sa).jpg)
+![威嚇するネコ](Hannibal_Poenaru_-_Nasty_cat_!_(by-sa).jpg)
 
 
 
 +++
 
-<img src="https://ja.wikipedia.org/wiki/ファイル:Hannibal_Poenaru_-_Nasty_cat_!_(by-sa).jpg">
+html挿入
+<img src="Hannibal_Poenaru_-_Nasty_cat_!_(by-sa).jpg">
